@@ -1,0 +1,1 @@
+This project takes in a weather word such as "rainy" and prints the weather forecast.  
